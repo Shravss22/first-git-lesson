@@ -1,3 +1,3 @@
 # first-git-lesson
 
-##Initial knowledge of github.
+## Initial knowledge of github.
